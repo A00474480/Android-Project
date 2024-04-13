@@ -1,7 +1,7 @@
 # Android Hotel Reservation System
 
 ## Project Overview
-This Android application is a hotel reservation system that allows users to book hotels online. It is designed to provide a full-stack developer experience, reinforcing what was taught in class and preparing students for the job market. The application features four user interface screens and utilizes two API service calls.
+This Android application is a hotel reservation system that allows users to book hotels online. The application features four user interface screens and utilizes two API service calls.
 
 ## Features
 - **Date and Guest Input**: Users can input check-in and check-out dates along with the number of guests.
